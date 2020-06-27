@@ -5,4 +5,4 @@
 Projects made to learn coding : 
 
 1) Animated Graph of Lorenz Attractor in Python 
-2) Animation Smale's Horseshoe using Javascript
+2) Animation of Smale's Horseshoe using Javascript
