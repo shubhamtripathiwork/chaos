@@ -1,5 +1,6 @@
 # Chaos
-'Sensitive Depedence to Initial Conditions'
+
+Chapter 1: 'Sensitive Depedence to Initial Conditions'
 
 
 Projects made to learn coding : 
